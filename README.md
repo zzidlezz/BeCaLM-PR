@@ -90,4 +90,3 @@ python main.py \
 
 Parts of the implementation build on [BiasEdit](https://github.com/zjunlp/BiasEdit), including model, data-loading, editing, and utility infrastructure. BeCaLM-specific calibration code and experiment configurations are provided in this repository. The BiasEdit project also acknowledges [MALMEN](https://github.com/ChenmienTan/malmen) and [bias-bench](https://github.com/McGill-NLP/bias-bench).
 
-Please cite the relevant original work when using those components, including [BiasEdit: Debiasing Stereotyped Language Models via Model Editing](https://arxiv.org/abs/2503.08588).
